@@ -19,6 +19,7 @@ I am a passionate Flutter developer with experience in building beautiful and pe
 ### GitHub Stats
 
 ![AhmadFikriAS's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmadFikriAS&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
+![Pull Requests](https://img.shields.io/github/issues-pr-closed-raw/AhmadFikriAS/YOUR_REPO_NAME?label=Pull%20Requests&logo=github&style=flat)
 
 ### Contact Me
 

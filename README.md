@@ -18,7 +18,7 @@ I am a passionate Flutter developer with experience in building beautiful and pe
 
 ### GitHub Stats
 
-![Ahmad Fikri AS GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadFikriAS&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+![Ahmad Fikri AS GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadFikriAS&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadFikriAS&layout=compact)
 

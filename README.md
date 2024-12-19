@@ -3,7 +3,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Realm](https://img.shields.io/badge/Realm-Database-blueviolet?logo=realm&logoColor=white)
+![Realm](https://img.shields.io/badge/Realm-blueviolet?logo=realm&logoColor=white)
 
 ## About Me
 

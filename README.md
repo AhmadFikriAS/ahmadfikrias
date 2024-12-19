@@ -7,3 +7,4 @@ I am a software developer with a passion for learning and building amazing proje
 
 ## My Tech Stack
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/ahmadfikrihasti/my-stack)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)

@@ -13,7 +13,7 @@ I am a passionate Flutter developer with experience in building beautiful and pe
 
 - **Languages:** Dart, Java
 - **Frameworks:** Flutter
-- **Tools:** Git, Firebase, Realm, SQLite
+- **Tools:** Git, Firebase(FCM), Realm, SQLite, Pocketbase
 - **Others:** RESTful APIs, State Management (Provider, Bloc), CI/CD, Unit Testing
 
 ### GitHub Stats

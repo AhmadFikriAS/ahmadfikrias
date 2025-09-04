@@ -27,7 +27,7 @@ I am a passionate Flutter developer with experience in building beautiful and pe
 - [LinkedIn](https://www.linkedin.com/in/ahmadfikrias/)
 - [Bento.me](https://bento.me/ahmadfikrias)
 - [Email](mailto:ahmadfikrihasti@gmail.com)
-- [Website](ahmadfikrias.dev)
+- [Website](https://ahmadfikrias.dev/)
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi!
 

@@ -57,14 +57,6 @@ I am a passionate **Flutter Developer** with experience in building beautiful an
 
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=AhmadFikriAS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
-
-</div>
-
 ## 📈 Contribution Activity
 
 <div align="center">

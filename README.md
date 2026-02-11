@@ -22,8 +22,8 @@ I am a passionate **Flutter Developer** with experience in building beautiful an
 
 ### Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Rust](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=rust&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-ED8B00?style=for-the-badge&logo=rust&logoColor=white)
 
 
 ### Frameworks & Tools
@@ -35,7 +35,7 @@ I am a passionate **Flutter Developer** with experience in building beautiful an
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pocketbase](https://img.shields.io/badge/Pocketbase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Pocketbase-B8DBE4?style=for-the-badge&logo=supabase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-B8DBE4?style=for-the-badge&logo=supabase&logoColor=black)
 
 
 ### Specializations

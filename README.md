@@ -22,7 +22,9 @@ I am a passionate **Flutter Developer** with experience in building beautiful an
 
 ### Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=rust&logoColor=white)
+
 
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -33,6 +35,8 @@ I am a passionate **Flutter Developer** with experience in building beautiful an
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Pocketbase](https://img.shields.io/badge/Pocketbase-B8DBE4?style=for-the-badge&logo=pocketbase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Pocketbase-B8DBE4?style=for-the-badge&logo=supabase&logoColor=black)
+
 
 ### Specializations
 - 📱 Cross-platform Mobile Development
@@ -45,58 +49,38 @@ I am a passionate **Flutter Developer** with experience in building beautiful an
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-<!-- GitHub Stats with fallback -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AhmadFikriAS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Ahmad%20Fikri%20AS%27s%20GitHub%20Stats&hide=issues&show=reviews">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AhmadFikriAS&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&custom_title=Ahmad%20Fikri%20AS%27s%20GitHub%20Stats&hide=issues&show=reviews">
-  <img alt="Ahmad Fikri AS's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AhmadFikriAS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Ahmad%20Fikri%20AS%27s%20GitHub%20Stats">
-</picture>
 
-<!-- Streak Stats -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AhmadFikriAS&theme=tokyonight&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=AhmadFikriAS&theme=default&hide_border=true">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadFikriAS&theme=tokyonight&hide_border=true">
-</picture>
+<!-- Simple GitHub Stats - More Reliable -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmadFikriAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmad's GitHub Stats" />
 
-<!-- Top Languages -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadFikriAS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=repo-to-exclude">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadFikriAS&layout=compact&theme=default&hide_border=true&langs_count=8&exclude_repo=repo-to-exclude">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadFikriAS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
-</picture>
+<!-- Simple Top Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadFikriAS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
-
-<!-- Activity Graph (Optional - uncomment if you want to use it) -->
-<!-- [![Ahmad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AhmadFikriAS&theme=tokyo-night&hide_border=true)](https://github.com/AhmadFikriAS) -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AhmadFikriAS&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-## 📫 Let's Connect!
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadfikrias/)
-[![Bento](https://img.shields.io/badge/Bento.me-768CFF?style=for-the-badge&logo=bento&logoColor=white)](https://bento.me/ahmadfikrias)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadfikrihasti@gmail.com)
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ahmadfikrias.dev/)
+<!-- GitHub Streak - Alternative Service -->
+<img src="https://streak-stats.demolab.com/?user=AhmadFikriAS&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
----
+## 🏆 Achievements
 
 <div align="center">
-  
-### 💬 "Great software is built by great teams, and great teams are built on communication and collaboration."
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmadFikriAS&color=blueviolet&style=flat-square)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AhmadFikriAS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
 </div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadFikriAS&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+</div>
+
+## 💼 What I'm Working With
+```dart

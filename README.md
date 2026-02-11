@@ -50,14 +50,6 @@ I am a passionate **Flutter Developer** with experience in building beautiful an
 
 <div align="center">
 
-<!-- Simple GitHub Stats - More Reliable -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AhmadFikriAS&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Ahmad's GitHub Stats" />
-
-<!-- Simple Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadFikriAS&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-</div>
-
 <div align="center">
 
 <!-- GitHub Streak - Alternative Service -->
@@ -81,6 +73,3 @@ I am a passionate **Flutter Developer** with experience in building beautiful an
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadFikriAS&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
-
-## 💼 What I'm Working With
-```dart
